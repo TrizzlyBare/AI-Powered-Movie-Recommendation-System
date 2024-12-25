@@ -1,0 +1,21 @@
+movieId,title,genres
+1,Toy Story (1995),Adventure|Animation|Children|Comedy|Fantasy
+2,Jumanji (1995),Adventure|Children|Fantasy
+3,Grumpier Old Men (1995),Comedy|Romance
+4,Heat (1995),Action|Crime|Drama|Thriller
+5,Seven (1995),Crime|Drama|Mystery|Thriller
+6,Usual Suspects (1995),Crime|Drama|Mystery|Thriller
+7,Fargo (1996),Crime|Drama|Thriller
+8,Dead Man Walking (1995),Crime|Drama
+9,Clueless (1995),Comedy|Romance
+10,Sense and Sensibility (1995),Drama|Romance
+11,The Shawshank Redemption (1994),Drama
+12,The Godfather (1972),Crime|Drama
+13,The Dark Knight (2008),Action|Crime|Drama|Thriller
+14,The Matrix (1999),Action|Sci-Fi
+15,Inception (2010),Action|Adventure|Sci-Fi|Thriller
+16,Interstellar (2014),Adventure|Drama|Sci-Fi
+17,Gladiator (2000),Action|Adventure|Drama
+18,The Lion King (1994),Animation|Adventure|Drama|Family
+19,Forrest Gump (1994),Drama|Romance
+20,The Silence of the Lambs (1991),Crime|Drama|Thriller
